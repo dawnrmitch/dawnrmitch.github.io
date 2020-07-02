@@ -4,3 +4,4 @@
 
 layout: home
 ---
+[link to first blog post](./_posts/2020-06-30-welcome-to-jekyll.markdown)
