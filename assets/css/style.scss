@@ -3,16 +3,16 @@
 
 @import "{{ site.theme }}";
 
-a {
-    color: #9370DB;
-}
-
 header h1, header a {
     color: #DDA0DD;
 }
 
 header h2, h2 a {
     color: #AEA8D3;
+}
+
+body a, a.button {
+    color: #9370DB;
 }
 
 hr {
