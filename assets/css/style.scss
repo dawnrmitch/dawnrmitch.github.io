@@ -1,9 +1,7 @@
 ---
 ---
 
-header h1 {
-  color: blue;
-}
+$header: blue;
 
 @import "{{ site.theme }}";
 
