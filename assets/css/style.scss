@@ -1,8 +1,8 @@
 ---
 ---
 
-$header: #73ddfa;
-
 @import "{{ site.theme }}";
 
-
+header h1, h1 {
+    color: #73ddfa;
+}
